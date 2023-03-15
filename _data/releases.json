@@ -34,9 +34,9 @@
                                   }
                    },
     "nightlybuild":  {
-                         "name":  "v1.77.3.599",
-                         "published_at":  "2023-03-15T20:24:17Z",
-                         "html_url":  "https://github.com/BlueBlock/test678/releases/tag/20230315-1.77.3.599-NB",
+                         "name":  "v1.77.3.600",
+                         "published_at":  "2023-03-15T20:41:26Z",
+                         "html_url":  "https://github.com/BlueBlock/test678/releases/tag/20230315-1.77.3.600-NB",
                          "assets":  {
                                         "installer":  {
                                                           "browser_download_url":  "https://github.com/BlueBlock/test678/releases/download/20230315-1.77.3.597-NB/mRemoteNG-Installer-1.77.3.597-NB.msi",
@@ -44,9 +44,9 @@
                                                           "size":  12367820
                                                       },
                                         "portable":  {
-                                                         "browser_download_url":  "https://github.com/BlueBlock/test678/releases/download/20230315-1.77.3.599-NB/mRemoteNG-Portable-1.77.3.599.zip",
-                                                         "checksum":  "72280CA4BCBBF6247342348E9A67FEA29DA4FAC5967AA345337F2988C5C6680C48A40C7C7D73AF712352FC489CBAFF632A8353EFB8DDD257E4DBC633DDD76903",
-                                                         "size":  11227703
+                                                         "browser_download_url":  "https://github.com/BlueBlock/test678/releases/download/20230315-1.77.3.600-NB/mRemoteNG-Portable-1.77.3.600-NB.zip",
+                                                         "checksum":  "B97319AE69A57FADC11062F3CF6709197E8EEE62CF8451FE059F3245046ED68106C05CC23982A656B4F8B8D659A8FC445CEE9263BAEDB3B60425D1090EC7C05E",
+                                                         "size":  11227677
                                                      }
                                     }
                      }
