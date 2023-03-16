@@ -35,7 +35,7 @@
                    },
     "nightlybuild":  {
                          "name":  "v1.77.3.622-NB",
-                         "published_at":  "2023-03-16T14:59:04Z",
+                         "published_at":  "2023-03-16T15:03:48Z",
                          "html_url":  "https://github.com/BlueBlock/test678/releases/tag/20230316-1.77.3.622-NB",
                          "assets":  {
                                         "installer":  {
@@ -44,9 +44,9 @@
                                                           "size":  12367820
                                                       },
                                         "portable":  {
-                                                         "browser_download_url":  "https://github.com/BlueBlock/test678/releases/download/20230316-1.77.3.621-NB/mRemoteNG-Portable-1.77.3.621-NB.zip",
-                                                         "checksum":  "83F0FCB6DAC88C9DA652A64A2F8128BA53FED3EE24BAB53D4AFC6DEEC69CCEC5FDC3435A956641C0C5B5D7E6A0A4C7589406011880021F49D216E7995D6EBF5C",
-                                                         "size":  11227665
+                                                         "browser_download_url":  "https://github.com/BlueBlock/test678/releases/download/20230316-1.77.3.622-NB/mRemoteNG-Portable-1.77.3.622-NB.zip",
+                                                         "checksum":  "FCE34E50B78C08A84462E9E1211D80EEF41E0F8D839D2DB9A07CD640475138ADB0500195F275DADE0BFD5C146A4B3BA029F73B27919E78B570B649AE7E08516C",
+                                                         "size":  11227661
                                                      }
                                     }
                      }
