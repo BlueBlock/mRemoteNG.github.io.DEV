@@ -34,9 +34,9 @@
                                   }
                    },
     "nightlybuild":  {
-                         "name":  "v1.77.3.618-NB",
-                         "published_at":  "2023-03-16T10:43:36Z",
-                         "html_url":  "https://github.com/BlueBlock/test678/releases/tag/20230316-1.77.3.618-NB",
+                         "name":  "v1.77.3.619-NB",
+                         "published_at":  "2023-03-16T11:01:42Z",
+                         "html_url":  "https://github.com/BlueBlock/test678/releases/tag/20230316-1.77.3.619-NB",
                          "assets":  {
                                         "portable":  {
                                                          "browser_download_url":  "https://github.com/BlueBlock/test678/releases/download/20230316-1.77.3.618-NB/mRemoteNG-Portable-1.77.3.618-NB.zip",
@@ -45,4 +45,3 @@
                                     }
                      }
 }
-
